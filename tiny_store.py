@@ -1,7 +1,7 @@
 #!-*- coding: utf8 -*-
 
 # -- TinyStore --
-# TinyStore is the easy way of storing data on Google App Engine.
+# TinyStore is the easy way of storing data into Datastore on Google App Engine.
 # The use of TinyStore is very easy.
 # TinyStore have only two functions, write and read.
 # Please report to me about any bug reports or questions.
